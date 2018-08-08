@@ -1,0 +1,39 @@
+.btn-facebook, .btn-google, .btn-twitter, .btn-github, .btn-linkedin,
+.btn-facebook:hover ,.btn-google:hover ,.btn-twitter:hover,.btn-github:hover,
+.btn-linkedin:hover{
+	color: white;
+	border-radius: 35px;
+	width: 50px;
+	height: 50px;
+	padding-top: 16px;
+	padding-right: 14px;	
+}
+
+.btn-facebook{
+    background-color: #3b5998;
+    border-color: #3b5998;
+}
+
+.btn-twitter{
+    background-color: #55acee;
+    border-color: #55acee;
+}
+
+.btn-google{
+    background-color: #dd4b39;
+    border-color: #dd4b39;
+}
+
+.btn-github{
+    background-color: #323131;
+    border-color: #323131;
+}
+
+.btn-linkedin {
+    background-color: #1c77b6;
+    border-color: #1c77b6;
+}
+
+.forgot{
+	font-size: 13px;
+}
